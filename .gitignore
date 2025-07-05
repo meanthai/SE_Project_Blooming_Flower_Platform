@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Allow only specific folders
+!frontend/
+!backend-ts/
+!backed-py/
+
+# Allow .gitignore itself
+!.gitignore
