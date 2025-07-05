@@ -1,29 +1,4 @@
-Ran tool
-Ran tool
-Ran tool
-Ran tool
-Ran tool
-Ran tool
-Read file: README.md
-Read file: backend-py/README.md
-Read file: frontend/README.md
-Search files...
-Search files...
-Search files...
-Ran tool
-Read file: backend-py/model/model.py
-Ran tool
-Read file: backend-py/controller/controller.py
-Ran tool
-Ran tool
-Read file: backend-ts/src/models/order.ts
-Read file: backend-ts/src/models/restaurant.ts
-Read file: backend-ts/src/models/user.ts
-Read file: backend-ts/src/index.ts
-Read file: docker-compose.yaml
-Based on the project structure, code, and configuration, here is a suitable description for your README file:
 
----
 
 # FlowerOrderPlatform
 
