@@ -1,0 +1,577 @@
+[
+    {
+      "user": "User1",
+      "restaurantName": "Store 1",
+      "city": "Manchester",
+      "country": "UK",
+      "deliveryPrice": 339,
+      "estimatedDeliveryTime": 32,
+      "cuisines": [
+    "Double",
+    "Tubular",
+    "Single"
+  ],
+      "menuItems": [
+        {
+          "name": "Item 1",
+          "price": 2091,
+          "_id": {
+            "$oid": "1accf7fd7f25993e9cfbcdf8"
+          }
+        },
+        {
+          "name": "Item 2",
+          "price": 514,
+          "_id": {
+            "$oid": "ca167abff5bcbbef2b7fa6ce"
+          }
+        },
+        {
+          "name": "Item 3",
+          "price": 1636,
+          "_id": {
+            "$oid": "cdafdcef0ccd03a49f593ac4"
+          }
+        },
+        {
+          "name": "Item 4",
+          "price": 1437,
+          "_id": {
+            "$oid": "f4a911cfb567fe9704fbe3e2"
+          }
+        },
+        {
+          "name": "Item 5",
+          "price": 2165,
+          "_id": {
+            "$oid": "7f28bc08e5a5a188a2f0e81c"
+          }
+        }
+      ],
+      "imageUrl": "https://placehold.co/1600x400",
+      "lastUpdated": "2024-02-01T18:08:00.394351"
+    },
+    {
+      "user": "User2",
+      "restaurantName": "Store 2",
+      "city": "Manchester",
+      "country": "UK",
+      "deliveryPrice": 100,
+      "estimatedDeliveryTime": 38,
+      "cuisines": [
+    "Composite",
+    "Tubular",
+    "Single",
+    "Double"
+  ],
+      "menuItems": [
+        {
+          "name": "Item 1",
+          "price": 2205,
+          "_id": {
+            "$oid": "2ddc843daeae8ad119a374ab"
+          }
+        },
+        {
+          "name": "Item 2",
+          "price": 861,
+          "_id": {
+            "$oid": "92b67632cbfa4c58ec1ba089"
+          }
+        },
+        {
+          "name": "Item 3",
+          "price": 2535,
+          "_id": {
+            "$oid": "b5fac15cca0029b93fe33c8b"
+          }
+        },
+        {
+          "name": "Item 4",
+          "price": 700,
+          "_id": {
+            "$oid": "f0b92bf84fa529f44341f77b"
+          }
+        },
+        {
+          "name": "Item 5",
+          "price": 1750,
+          "_id": {
+            "$oid": "f02746aa60dbf7ea01ff5c3f"
+          }
+        }
+      ],
+      "imageUrl": "https://placehold.co/1600x400",
+      "lastUpdated": "2024-02-01T18:08:00.394389"
+    },
+    {
+      "user": "User3",
+      "restaurantName": "Store 3",
+      "city": "Manchester",
+      "country": "UK",
+      "deliveryPrice": 141,
+      "estimatedDeliveryTime": 51,
+      "cuisines": [
+    "Composite",
+    "Tubular",
+    "Double"
+  ],
+      "menuItems": [
+        {
+          "name": "Item 1",
+          "price": 2563,
+          "_id": {
+            "$oid": "cfb9fa5a381d38aa03cc3dc5"
+          }
+        },
+        {
+          "name": "Item 2",
+          "price": 2822,
+          "_id": {
+            "$oid": "c9fecb2be1d6eceb50e82e63"
+          }
+        },
+        {
+          "name": "Item 3",
+          "price": 2203,
+          "_id": {
+            "$oid": "82be87a3a5afa0ebfb4f1df6"
+          }
+        },
+        {
+          "name": "Item 4",
+          "price": 1282,
+          "_id": {
+            "$oid": "5c05c5f7dcb943c90cea9eb0"
+          }
+        },
+        {
+          "name": "Item 5",
+          "price": 772,
+          "_id": {
+            "$oid": "366b83fb3f5ecb7e60dab1e8"
+          }
+        }
+      ],
+      "imageUrl": "https://placehold.co/1600x400",
+      "lastUpdated": "2024-02-01T18:08:00.394414"
+    },
+    {
+      "user": "User4",
+      "restaurantName": "Store 4",
+      "city": "Manchester",
+      "country": "UK",
+      "deliveryPrice": 350,
+      "estimatedDeliveryTime": 25,
+      "cuisines": [
+    "Double",
+    "Spike",
+    "Bell-shaped"
+  ],
+      "menuItems": [
+        {
+          "name": "Item 1",
+          "price": 2811,
+          "_id": {
+            "$oid": "b43cbc7e1bf54b49e31cee09"
+          }
+        },
+        {
+          "name": "Item 2",
+          "price": 1174,
+          "_id": {
+            "$oid": "ed164ed882eda46b0fbd1f31"
+          }
+        },
+        {
+          "name": "Item 3",
+          "price": 1131,
+          "_id": {
+            "$oid": "eddbcb2dbcbce9afed0bdc1a"
+          }
+        },
+        {
+          "name": "Item 4",
+          "price": 1904,
+          "_id": {
+            "$oid": "f713b5eaecd02ecc583bea1b"
+          }
+        },
+        {
+          "name": "Item 5",
+          "price": 1333,
+          "_id": {
+            "$oid": "2be5c5a3cdb11fa5aeaca03b"
+          }
+        }
+      ],
+      "imageUrl": "https://placehold.co/1600x400",
+      "lastUpdated": "2024-02-01T18:08:00.394442"
+    },
+    {
+      "user": "User5",
+      "restaurantName": "Store 5",
+      "city": "Manchester",
+      "country": "UK",
+      "deliveryPrice": 165,
+      "estimatedDeliveryTime": 19,
+      "cuisines": [
+    "Double",
+    "Spike",
+    "Bell-shaped"
+  ],
+      "menuItems": [
+        {
+          "name": "Item 1",
+          "price": 518,
+          "_id": {
+            "$oid": "d7d9e7a6e748c3fffee59e49"
+          }
+        },
+        {
+          "name": "Item 2",
+          "price": 641,
+          "_id": {
+            "$oid": "b32ad6adadcc4a79ddbc8415"
+          }
+        },
+        {
+          "name": "Item 3",
+          "price": 1644,
+          "_id": {
+            "$oid": "7c7afceadae0fc6a42bdacdc"
+          }
+        },
+        {
+          "name": "Item 4",
+          "price": 924,
+          "_id": {
+            "$oid": "cbaffc3032eaaa94113b57ff"
+          }
+        },
+        {
+          "name": "Item 5",
+          "price": 1686,
+          "_id": {
+            "$oid": "fed81ea8a6955a9f8eccfd2e"
+          }
+        }
+      ],
+      "imageUrl": "https://placehold.co/1600x400",
+      "lastUpdated": "2024-02-01T18:08:00.394468"
+    },
+    {
+      "user": "User6",
+      "restaurantName": "Store 6",
+      "city": "Manchester",
+      "country": "UK",
+      "deliveryPrice": 209,
+      "estimatedDeliveryTime": 56,
+      "cuisines": [
+    "Double",
+    "Spike",
+    "Bell-shaped"
+  ],
+      "menuItems": [
+        {
+          "name": "Item 1",
+          "price": 1939,
+          "_id": {
+            "$oid": "b4069b4b6ab0efeb034c3e6c"
+          }
+        },
+        {
+          "name": "Item 2",
+          "price": 1219,
+          "_id": {
+            "$oid": "2d3fa0ff84ad19531fe164ac"
+          }
+        },
+        {
+          "name": "Item 3",
+          "price": 2985,
+          "_id": {
+            "$oid": "b86ed10a98f7f55ca41dc8e1"
+          }
+        },
+        {
+          "name": "Item 4",
+          "price": 528,
+          "_id": {
+            "$oid": "6ab51730c92e8bd5be876463"
+          }
+        },
+        {
+          "name": "Item 5",
+          "price": 672,
+          "_id": {
+            "$oid": "f725c45d69dca56ab9cba17f"
+          }
+        }
+      ],
+      "imageUrl": "https://placehold.co/1600x400",
+      "lastUpdated": "2024-02-01T18:08:00.394495"
+    },
+    {
+      "user": "User7",
+      "restaurantName": "Store 7",
+      "city": "Manchester",
+      "country": "UK",
+      "deliveryPrice": 480,
+      "estimatedDeliveryTime": 24,
+      "cuisines": [
+    "Double",
+    "Bell-shaped"
+  ],
+      "menuItems": [
+        {
+          "name": "Item 1",
+          "price": 2289,
+          "_id": {
+            "$oid": "fd9b8683fcab6cc53fb2efc4"
+          }
+        },
+        {
+          "name": "Item 2",
+          "price": 940,
+          "_id": {
+            "$oid": "efcc6d4f9a9949daa09addeb"
+          }
+        },
+        {
+          "name": "Item 3",
+          "price": 2276,
+          "_id": {
+            "$oid": "5e203e1dfbfeedccce8bca72"
+          }
+        },
+        {
+          "name": "Item 4",
+          "price": 1791,
+          "_id": {
+            "$oid": "07b7ec3bab238b4f0d48a121"
+          }
+        },
+        {
+          "name": "Item 5",
+          "price": 952,
+          "_id": {
+            "$oid": "b3936ca01caacc17ae1fed4d"
+          }
+        }
+      ],
+      "imageUrl": "https://placehold.co/1600x400",
+      "lastUpdated": "2024-02-01T18:08:00.394523"
+    },
+    {
+      "user": "User8",
+      "restaurantName": "Store 8",
+      "city": "Manchester",
+      "country": "UK",
+      "deliveryPrice": 332,
+      "estimatedDeliveryTime": 22,
+     "cuisines": [
+        "Single",
+    "Double",
+    "Spike",
+    "Bell-shaped"
+  ],
+      "menuItems": [
+        {
+          "name": "Item 1",
+          "price": 1392,
+          "_id": {
+            "$oid": "f2afbffac8946fc20cfca9c5"
+          }
+        },
+        {
+          "name": "Item 2",
+          "price": 1250,
+          "_id": {
+            "$oid": "206bfbfbc464da891f6558fb"
+          }
+        },
+        {
+          "name": "Item 3",
+          "price": 1571,
+          "_id": {
+            "$oid": "eb6ab12c619c18a39b9bd04f"
+          }
+        },
+        {
+          "name": "Item 4",
+          "price": 1557,
+          "_id": {
+            "$oid": "0c3c89a19487bca700f23015"
+          }
+        },
+        {
+          "name": "Item 5",
+          "price": 2290,
+          "_id": {
+            "$oid": "a56e618ff0cb3677ab3e974b"
+          }
+        }
+      ],
+      "imageUrl": "https://placehold.co/1600x400",
+      "lastUpdated": "2024-02-01T18:08:00.394549"
+    },
+    {
+      "user": "User9",
+      "restaurantName": "Store 9",
+      "city": "Manchester",
+      "country": "UK",
+      "deliveryPrice": 163,
+      "estimatedDeliveryTime": 41,
+      "cuisines": [
+    "Single",
+    "Bell-shaped",
+    "Tubular",
+    "Composite"
+  ],
+      "menuItems": [
+        {
+          "name": "Item 1",
+          "price": 2366,
+          "_id": {
+            "$oid": "ccfb8723da99fba913b1c31e"
+          }
+        },
+        {
+          "name": "Item 2",
+          "price": 1233,
+          "_id": {
+            "$oid": "7ddaa2c5abb0e3a16ec019dd"
+          }
+        },
+        {
+          "name": "Item 3",
+          "price": 2599,
+          "_id": {
+            "$oid": "7ccfe5fc8bcffbd989f3e0ed"
+          }
+        },
+        {
+          "name": "Item 4",
+          "price": 2118,
+          "_id": {
+            "$oid": "9effac8dadbcac65480cdaa9"
+          }
+        },
+        {
+          "name": "Item 5",
+          "price": 1254,
+          "_id": {
+            "$oid": "6c1dd9785dc7f6ffd93fddaa"
+          }
+        }
+      ],
+      "imageUrl": "https://placehold.co/1600x400",
+      "lastUpdated": "2024-02-01T18:08:00.394579"
+    },
+    {
+      "user": "User10",
+      "restaurantName": "Store 10",
+      "city": "Manchester",
+      "country": "UK",
+      "deliveryPrice": 216,
+      "estimatedDeliveryTime": 58,
+      "cuisines": [
+        "Double",
+    "Bell-shaped",
+    "Tubular",
+    "Composite"
+  ],
+      "menuItems": [
+        {
+          "name": "Item 1",
+          "price": 524,
+          "_id": {
+            "$oid": "c7deedb3ff8097bd5b75acbf"
+          }
+        },
+        {
+          "name": "Item 2",
+          "price": 2518,
+          "_id": {
+            "$oid": "a8decaf151eefb03b09d5bcd"
+          }
+        },
+        {
+          "name": "Item 3",
+          "price": 2882,
+          "_id": {
+            "$oid": "4db0b482bc0b50b2a2f1e1e1"
+          }
+        },
+        {
+          "name": "Item 4",
+          "price": 2466,
+          "_id": {
+            "$oid": "7e13c8eb69cead12b66a5ad6"
+          }
+        },
+        {
+          "name": "Item 5",
+          "price": 877,
+          "_id": {
+            "$oid": "7cf9fc478d5eb37fe649adbc"
+          }
+        }
+      ],
+      "imageUrl": "https://placehold.co/1600x400",
+      "lastUpdated": "2024-02-01T18:08:00.394606"
+    },
+    {
+      "user": "User11",
+      "restaurantName": "Store 11",
+      "city": "Manchester",
+      "country": "UK",
+      "deliveryPrice": 358,
+      "estimatedDeliveryTime": 43,
+      "cuisines": [
+    "Single",
+    "Bell-shaped",
+    "Composite"
+  ],
+      "menuItems": [
+        {
+          "name": "Item 1",
+          "price": 2844,
+          "_id": {
+            "$oid": "918ef26fee0f9df4443bfacc"
+          }
+        },
+        {
+          "name": "Item 2",
+          "price": 2721,
+          "_id": {
+            "$oid": "0c756deddc5e6eb1ddc51acd"
+          }
+        },
+        {
+          "name": "Item 3",
+          "price": 2652,
+          "_id": {
+            "$oid": "b08ebd2fbd86bb48dee4ef27"
+          }
+        },
+        {
+          "name": "Item 4",
+          "price": 2988,
+          "_id": {
+            "$oid": "8beb42cb58be9bfa735aa6bf"
+          }
+        },
+        {
+          "name": "Item 5",
+          "price": 2624,
+          "_id": {
+            "$oid": "d7cc55679ba8fceb7edd6a77"
+          }
+        }
+      ],
+      "imageUrl": "https://placehold.co/1600x400",
+      "lastUpdated": "2024-02-01T18:08:00.394631"
+    }
+  ]
