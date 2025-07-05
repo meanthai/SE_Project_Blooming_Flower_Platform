@@ -26,7 +26,7 @@ FlowerOrderPlatform is a full-stack web application designed to facilitate the o
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/meanthai/SE_Project_Blooming_Flower_Platform.git
    cd FlowerOrderPlatform
    ```
 
@@ -37,6 +37,10 @@ FlowerOrderPlatform is a full-stack web application designed to facilitate the o
 
 3. **Frontend:**
    - Navigate to the `frontend` directory and follow the instructions in its README to start the development server.
+     ```bash
+     npm install
+     npm run dev
+     ```
 
 4. **Backend (TypeScript):**
    - Navigate to `backend-ts` and install dependencies:
@@ -47,6 +51,10 @@ FlowerOrderPlatform is a full-stack web application designed to facilitate the o
 
 5. **Backend (Python):**
    - Navigate to `backend-py` and install dependencies (see its README for details).
+     ```bash
+     pip install -r requirements.txt
+     python app.py
+     ```
 
 6. **Environment Variables:**
    - Configure `.env` files for each service as needed (API keys, database URIs, etc.).
