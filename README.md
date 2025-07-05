@@ -1,8 +1,8 @@
 
 
-# FlowerOrderPlatform
+# Bloom Flower Order PlatForm
 
-FlowerOrderPlatform is a full-stack web application designed to facilitate the ordering and management of flowers, with advanced search and chatbot capabilities. The platform is composed of multiple services, including a React-based frontend, two distinct backends (one in Python and one in TypeScript/Node.js), and a vector database for semantic search.
+Bloom Flower Order PlatForm is a full-stack web application designed to facilitate the ordering and management of flowers, with advanced search and chatbot capabilities. The platform is composed of multiple services, including a React-based frontend, two distinct backends (one in Python and one in TypeScript/Node.js), and a vector database for semantic search.
 
 ## Features
 
